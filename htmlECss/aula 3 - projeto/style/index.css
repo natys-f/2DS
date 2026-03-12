@@ -1,0 +1,16 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: rgb(91, 39, 126);
+}
+
+header , footer{ 
+    width: 100% ; 
+    background-color: aqua;
+    color:aquamarine
+    
+}

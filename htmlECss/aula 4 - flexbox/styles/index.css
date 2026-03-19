@@ -1,0 +1,19 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+}
+.pai{ 
+    width: 80%;
+    height: 500px;
+    padding: 20px;
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: end;''
+}
+.filho{ 
+    padding: 30px;
+    margin: 10px 0px;
+    background-color: aqua;
+}
